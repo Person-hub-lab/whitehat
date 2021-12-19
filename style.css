@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(152, 255, 152);
+    text-align: center;
+}
+
+.Score{
+    font-size: 15;
+    margin-left: 15;
+
+
+}
+
+.Time{
+    font-size: 15;
+     float: right;
+     margin-right: 15;
+}
+
+.Drawn{
+ 
+}
